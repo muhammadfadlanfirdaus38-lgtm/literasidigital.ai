@@ -1,1 +1,295 @@
+130+ Istilah Literasi Digital dalam Penulisan Buku, Jurnal Ilmiah, dan Publikasi Digital
 
+
+
+Materi pembelajaran dan referensi penulisan digital
+
+Penulis: Muhamad Fadlan Firdaus
+
+Pendahuluan
+
+Literasi digital adalah kemampuan menggunakan teknologi digital untuk mencari, memahami, menilai, membuat, dan menyebarkan informasi secara bijak. Dalam penulisan buku, jurnal ilmiah, dan publikasi digital, literasi digital membantu penulis menghasilkan karya yang informatif, sistematis, akurat, serta bertanggung jawab.
+
+Materi ini memuat lebih dari 100 istilah penting beserta pengertian singkatnya untuk membantu pelajar, mahasiswa, penulis, dan masyarakat memahami dunia publikasi digital.
+
+A. Istilah Dasar Literasi Digital
+
+1. Literasi Digital — Kemampuan menggunakan teknologi digital secara efektif dan bertanggung jawab.
+
+2. Informasi Digital — Informasi yang disimpan atau disampaikan dalam format digital.
+
+3. Teknologi Informasi — Teknologi untuk mengolah, menyimpan, dan menyebarkan informasi.
+
+4. Internet — Jaringan global yang menghubungkan berbagai perangkat dan sistem.
+
+5. World Wide Web (WWW) — Sistem halaman informasi yang dapat diakses melalui internet.
+
+6. Website — Kumpulan halaman digital yang memiliki alamat tertentu.
+
+7. Browser — Aplikasi untuk mengakses situs web.
+
+8. Mesin Pencari — Layanan untuk menemukan informasi di internet.
+
+9. Media Digital — Sarana penyampaian informasi berbasis teknologi digital.
+
+10. Konten Digital — Materi berupa teks, gambar, audio, video, atau format digital lainnya.
+
+11. Platform Digital — Layanan digital untuk berkomunikasi, berkreasi, atau berbagi informasi.
+
+12. Jejak Digital — Rekaman aktivitas seseorang di lingkungan digital.
+
+13. Identitas Digital — Representasi identitas seseorang dalam sistem digital.
+
+14. Etika Digital — Prinsip perilaku yang baik saat menggunakan teknologi digital.
+
+15. Keamanan Digital — Upaya melindungi perangkat, akun, dan informasi digital.
+
+B. Istilah dalam Penulisan Buku
+
+16. Naskah — Tulisan awal yang disiapkan untuk diterbitkan.
+
+17. Judul Buku — Nama utama yang menggambarkan isi buku.
+
+18. Subjudul — Keterangan tambahan yang memperjelas judul.
+
+19. Kata Pengantar — Bagian pembuka yang memberikan gambaran umum mengenai buku.
+
+20. Kata Sambutan — Pesan pembuka dari pihak yang memberikan dukungan atau penghargaan.
+
+21. Pendahuluan — Bagian yang menjelaskan latar belakang dan tujuan pembahasan.
+
+22. Bab — Bagian utama yang membagi isi buku berdasarkan topik.
+
+23. Subbab — Bagian yang lebih kecil di dalam bab.
+
+24. Daftar Isi — Susunan bagian buku beserta nomor halamannya.
+
+25. Daftar Pustaka — Daftar sumber yang dirujuk dalam penulisan.
+
+26. Indeks — Daftar istilah atau topik untuk memudahkan pencarian dalam buku.
+
+27. Glosarium — Kumpulan istilah beserta definisinya.
+
+28. Sinopsis — Ringkasan isi buku.
+
+29. ISBN — Nomor standar internasional untuk mengidentifikasi edisi buku.
+
+29. Tata Letak (Layout) — Pengaturan posisi teks, gambar, dan elemen halaman.
+
+30. Tipografi — Pengaturan dan penggunaan huruf dalam desain tulisan.
+
+31. Proofreading — Pemeriksaan akhir untuk menemukan kesalahan penulisan.
+
+32. Penyuntingan (Editing) — Perbaikan bahasa, struktur, dan isi tulisan.
+
+33. Penerbitan Digital — Proses menerbitkan karya dalam format digital.
+
+34. E-book — Buku dalam format elektronik.
+
+C. Istilah dalam Jurnal Ilmiah
+
+35. Jurnal Ilmiah — Publikasi berkala yang memuat karya akademik atau penelitian.
+
+36. Artikel Ilmiah — Tulisan akademik yang membahas hasil penelitian atau kajian.
+
+37. Abstrak — Ringkasan tujuan, metode, hasil, dan kesimpulan penelitian.
+
+38. Kata Kunci — Istilah utama yang mewakili topik penelitian.
+
+39. Latar Belakang — Penjelasan alasan suatu penelitian dilakukan.
+
+40. Rumusan Masalah — Pertanyaan utama yang hendak dijawab melalui penelitian.
+
+41. Tujuan Penelitian — Sasaran yang ingin dicapai dalam penelitian.
+
+42. Tinjauan Pustaka — Pembahasan teori dan penelitian terdahulu yang relevan.
+
+43. Metodologi Penelitian — Penjelasan pendekatan dan prosedur penelitian.
+
+44. Data Penelitian — Informasi yang dikumpulkan untuk dianalisis.
+
+45. Analisis Data — Proses mengolah dan menafsirkan data.
+
+46. Hasil Penelitian — Temuan yang diperoleh dari penelitian.
+
+47. Pembahasan — Penjelasan makna dan implikasi hasil penelitian.
+
+48. Kesimpulan — Ringkasan jawaban berdasarkan hasil penelitian.
+
+49. Sitasi — Penyebutan sumber yang digunakan dalam tulisan.
+
+50. Referensi — Sumber yang dirujuk dalam karya ilmiah.
+
+51. Peer Review — Penilaian karya ilmiah oleh ahli di bidang terkait.
+
+52. DOI — Pengidentifikasi digital permanen untuk suatu karya ilmiah atau objek digital.
+
+53. ISSN — Nomor standar internasional untuk mengidentifikasi publikasi berkala.
+
+54. Indeksasi Jurnal — Pencatatan jurnal dalam basis data pengindeks.
+
+55. Open Access — Model akses publikasi ilmiah yang dapat dibaca tanpa biaya akses.
+
+56. Repositori Ilmiah — Tempat penyimpanan dan penyediaan karya akademik.
+
+57. Plagiarisme — Penggunaan karya atau gagasan orang lain tanpa pengakuan yang semestinya.
+
+58. Integritas Akademik — Komitmen terhadap kejujuran dan tanggung jawab dalam kegiatan akademik.
+
+59. Replikasi Penelitian — Pengulangan penelitian untuk memeriksa konsistensi hasil.
+
+D. Istilah dalam Publikasi Digital
+
+60. Blog — Situs atau bagian situs untuk menerbitkan tulisan secara berkala.
+
+61. Artikel Web — Tulisan yang diterbitkan melalui situs web.
+
+62. CMS (Content Management System) — Sistem untuk membuat dan mengelola konten digital.
+
+63. SEO (Search Engine Optimization) — Upaya meningkatkan visibilitas konten pada mesin pencari.
+
+64. Kata Kunci SEO — Kata atau frasa yang ditargetkan dalam optimasi konten.
+
+65. Meta Description — Ringkasan halaman yang dapat ditampilkan dalam hasil pencarian.
+
+66. URL — Alamat suatu sumber daya di internet.
+
+67. Hyperlink — Tautan yang menghubungkan satu sumber digital dengan sumber lainnya.
+
+68. Backlink — Tautan dari situs lain yang mengarah ke suatu halaman.
+
+69. Domain — Nama yang digunakan untuk mengakses situs di internet.
+
+70. Hosting — Layanan penyimpanan berkas situs agar dapat diakses secara daring.
+
+71. Engagement — Interaksi pengguna dengan suatu konten.
+
+72. Impresi — Jumlah penayangan konten pada layar pengguna.
+
+73. Jangkauan (Reach) — Jumlah akun atau pengguna unik yang melihat konten.
+
+74. Analitik Digital — Pengumpulan dan analisis data aktivitas digital.
+
+75. Call to Action (CTA) — Ajakan agar pembaca melakukan tindakan tertentu.
+
+76. Thumbnail — Gambar pratinjau yang mewakili konten.
+
+78. Infografis — Penyajian informasi melalui kombinasi visual dan teks.
+
+79. Newsletter — Buletin digital yang dibagikan kepada pelanggan atau pembaca.
+
+80. Distribusi Konten — Proses menyebarkan konten melalui berbagai kanal.
+
+E. Istilah Referensi dan Pengelolaan Sumber
+
+81. Zotero — Aplikasi untuk mengelola referensi dan sitasi.
+
+82. Mendeley — Perangkat pengelola referensi dan literatur ilmiah.
+
+82. Google Scholar — Layanan pencarian literatur ilmiah.
+
+84. Perpustakaan Digital — Koleksi bahan pustaka yang dapat diakses secara elektronik.
+
+85. Metadata — Data yang menjelaskan karakteristik suatu dokumen atau objek digital.
+
+86. DOAJ — Direktori jurnal akses terbuka.
+
+87. Crossref — Organisasi yang menyediakan infrastruktur metadata dan penghubung DOI untuk publikasi ilmiah.
+
+88. Creative Commons — Kumpulan lisensi yang memungkinkan pencipta mengatur penggunaan karyanya.
+
+89. Hak Cipta — Hak hukum pencipta atas karya yang dilindungi.
+
+90. Lisensi Digital — Ketentuan yang mengatur penggunaan konten digital.
+
+91. Atribusi — Pemberian pengakuan kepada pencipta atau sumber.
+
+92. Parafrasa — Penyampaian kembali gagasan dengan susunan kata sendiri tanpa mengubah makna.
+
+93. Kutipan Langsung — Pengambilan kata-kata sumber secara persis dengan penandaan yang sesuai.
+
+94. Kutipan Tidak Langsung — Penyampaian gagasan sumber menggunakan kata-kata sendiri.
+
+95. Sumber Primer — Sumber asli yang menyajikan data atau bukti langsung.
+
+96. Sumber Sekunder — Sumber yang membahas, menafsirkan, atau menganalisis sumber lain.
+
+97. Verifikasi Sumber — Pemeriksaan keakuratan dan kredibilitas sumber informasi.
+
+98. Fakta — Pernyataan yang dapat diperiksa berdasarkan bukti.
+
+99. Opini — Pendapat atau penilaian seseorang terhadap suatu hal.
+
+100. Hoaks — Informasi palsu atau menyesatkan yang disajikan seolah-olah benar.
+
+F. Istilah AI dan Teknologi dalam Penulisan
+
+101. Kecerdasan Buatan (AI) — Teknologi yang memungkinkan sistem menjalankan tugas yang umumnya memerlukan kecerdasan manusia.
+
+102. Generative AI — AI yang dapat menghasilkan teks, gambar, audio, atau konten lainnya.
+
+103. Prompt — Instruksi atau masukan yang diberikan kepada sistem AI.
+
+104. Prompt Engineering — Teknik menyusun instruksi agar hasil AI sesuai kebutuhan.
+
+105. Large Language Model (LLM) — Model AI yang dilatih untuk memahami dan menghasilkan bahasa.
+
+106. Chatbot — Program yang berinteraksi dengan pengguna melalui percakapan.
+
+107. Machine Learning — Metode yang memungkinkan sistem mempelajari pola dari data.
+
+108. Natural Language Processing (NLP) — Teknologi untuk memproses dan memahami bahasa manusia.
+
+109. Pemeriksaan Fakta (Fact-Checking) — Proses memeriksa kebenaran suatu klaim berdasarkan bukti.
+
+110. Halusinasi AI — Keluaran AI yang terdengar meyakinkan tetapi tidak akurat atau tidak didukung bukti.
+
+111. Bias Algoritma — Kecenderungan hasil sistem yang tidak seimbang akibat data atau desain algoritma.
+
+112. Deteksi Plagiarisme — Pemeriksaan kemiripan teks untuk menemukan bagian yang perlu ditinjau.
+
+113. Parafrasa Berbantuan AI — Penggunaan AI untuk membantu menyusun ulang teks.
+
+114. Penyuntingan Berbantuan AI — Pemanfaatan AI untuk membantu memperbaiki bahasa dan struktur tulisan.
+
+115. Etika AI — Prinsip penggunaan AI secara adil, aman, transparan, dan bertanggung jawab.
+
+116. Privasi Data — Perlindungan informasi pribadi dari penggunaan yang tidak semestinya.
+
+117. Keamanan Siber — Upaya melindungi sistem, jaringan, dan data dari ancaman digital.
+
+118. Otomatisasi — Penggunaan teknologi untuk menjalankan tugas dengan sedikit campur tangan manusia.
+
+119. Kolaborasi Digital — Kerja sama menggunakan perangkat dan platform digital.
+
+120. Literasi AI — Kemampuan memahami, mengevaluasi, dan menggunakan AI secara kritis dan bertanggung jawab.
+
+G. Istilah Tambahan dalam Pengelolaan Dokumen Digital
+
+121. PDF — Format dokumen yang mempertahankan tata letak saat dibuka di perangkat berbeda.
+
+122. DOCX — Format dokumen yang umum digunakan oleh Microsoft Word.
+
+123. OCR (Optical Character Recognition) — Teknologi untuk mengenali teks dari gambar atau hasil pemindaian.
+
+124. Cloud Storage — Penyimpanan berkas melalui layanan berbasis internet.
+
+125. Backup — Salinan cadangan untuk membantu memulihkan data.
+
+126. Version Control — Pengelolaan perubahan dan versi dokumen.
+
+127. Kolaborasi Waktu Nyata — Penyuntingan atau kerja bersama yang berlangsung secara bersamaan.
+
+*128. Tanda Tangan Digital — Mekanisme digital untuk memverifikasi keaslian dan integritas dokumen.
+
+129 Aksesibilitas Digital — Perancangan konten agar dapat digunakan oleh orang dengan beragam kebutuhan.
+
+130. Desain Responsif — Desain yang menyesuaikan tampilan dengan ukuran layar perangkat.
+
+Penutup
+
+Penguasaan istilah literasi digital merupakan bekal penting dalam menghasilkan buku, jurnal ilmiah, dan publikasi digital yang berkualitas. Pemahaman ini membantu penulis mengelola sumber informasi, menyusun tulisan secara sistematis, memanfaatkan teknologi, serta menjaga etika dan kejujuran akademik.
+
+Di era kecerdasan buatan, kemampuan menggunakan AI perlu disertai pemikiran kritis, pemeriksaan fakta, perlindungan data pribadi, dan pengakuan terhadap sumber. Dengan demikian, teknologi menjadi alat pendukung kreativitas dan produktivitas, bukan pengganti tanggung jawab penulis.
+
+Catatan penggunaan: Materi ini dapat dijadikan dasar buku pembelajaran atau referensi tugas. Untuk publikasi akademik, sesuaikan definisi dan istilah dengan sumber tepercaya serta pedoman sitasi yang digunakan.
